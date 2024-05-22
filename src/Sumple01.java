@@ -2,9 +2,6 @@ import java.util.Scanner;
 
 public class Sumple01 {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 
 		

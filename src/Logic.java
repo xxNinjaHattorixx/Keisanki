@@ -14,6 +14,7 @@ public class Logic {
 		
 		int c = (a * b) / 2;
 		
+		System.out.println("------------------------------------------------------");
 		System.out.println("底辺 " + a + " 高さ " + b + " の三角形の面積は " + c);
 	}
 	
@@ -27,6 +28,7 @@ public class Logic {
 		
 		int c = a * b;
 		
+		System.out.println("------------------------------------------------------");
 		System.out.println("縦幅 " + a + " 横幅 " + b + " の四角形の面積は " + c);
 	}
 	
@@ -37,6 +39,7 @@ public class Logic {
 				
 		int c = a * a * 3;
 		
+		System.out.println("------------------------------------------------------");
 		System.out.println("半径 " + a  + " の円の面積は " + c);
 	}
 
