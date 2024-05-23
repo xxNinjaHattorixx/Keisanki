@@ -16,15 +16,15 @@ public class Sumple01 {
 		
 		switch(mode) {
 		case 1:
-			Logic.sankaku(scanner);
+			Logic.triangleArea(scanner);
 			break;
 			
 		case 2:
-			Logic.shikaku(scanner);
+			Logic.squareArea(scanner);
 			break;
 			
 		case 3:
-			Logic.maru(scanner);
+			Logic.circleArea(scanner);
 			break;
 		
 		default:
