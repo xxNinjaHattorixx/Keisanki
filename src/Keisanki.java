@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Sumple01 {
+public class Keisanki {
 
 	public static void main(String[] args) {
 
@@ -12,6 +12,11 @@ public class Sumple01 {
 		System.out.println("1：三角形の面積");
 		System.out.println("2：四角形の面積");
 		System.out.println("3：円の面積");
+		
+		// 実装したいもの
+		// 年齢計算機（西暦・和暦）
+		// 日にち逆算
+		
 		int mode = scanner.nextInt();
 		
 		switch(mode) {
